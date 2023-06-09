@@ -1,0 +1,12 @@
+.zartlakat {
+  width: 150px;
+  height: 150px;
+}
+
+body {
+  align-items: center;
+  background: grey;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+}
